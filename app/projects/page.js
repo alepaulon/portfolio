@@ -25,7 +25,7 @@ export default function Projects() {
                             height={280}
                             />
                         </Link>
-                        <h3 className="pt-20 lg:pt-2 font-light min-w-[250px] lg:max-w-xs">Commerce website done for a React course, based on a petshop. Still a work in progress, I want to make it Full Responsive.</h3>
+                        <h3 className="pt-20 lg:pt-2 font-light min-w-[250px] lg:max-w-xs">Commerce website done for a React JS course, based on a petshop. The styling is fully done with Tailwind CSS. Still a work in progress, I want to make it Full Responsive.</h3>
                     </div>
                     <div className="flex flex-col items-center lg:items-start lg:mr-10 mt-10 lg:mt-0">
                         <h2 className="pb-2 font-semibold">Palmieri E-Commerce</h2>
@@ -41,7 +41,7 @@ export default function Projects() {
                             height={280}
                             />
                         </Link>
-                        <h3 className="pt-20 lg:pt-2 font-light min-w-[250px] lg:max-w-xs">Commerce website done for an HTML & CSS course, based on a sanitary/distribution shop. It is Full Responsive.</h3>
+                        <h3 className="pt-20 lg:pt-2 font-light min-w-[250px] lg:max-w-xs">Commerce website done for an HTML & CSS course, based on a sanitary/distribution shop. The styling is done with Bootstrap and Sass. It is Full Responsive.</h3>
                     </div>
                 </div>
             </div>
